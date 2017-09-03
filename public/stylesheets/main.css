@@ -1,0 +1,42 @@
+.thumbnail img {
+    width: 100%;
+}
+
+.thumbnail .caption-full {
+    padding: 9px;
+}
+
+.delete-form{
+    display: inline;
+}
+
+.comment-delete {
+    border: none;
+    background-color: transparent;
+}
+
+.fa {
+    font-size: 1em;
+}
+
+:focus {
+    outline: 0;
+}
+
+.alert {
+    text-align: center;
+}
+
+.comment-text {
+    display: inline;
+}
+
+.comment-edit-div {
+    display: inline;
+}
+
+/* Google Maps */
+#map {
+    height: 400px;
+    width: 100%;
+}
